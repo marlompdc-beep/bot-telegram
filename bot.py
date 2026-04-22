@@ -3,8 +3,8 @@ import requests
 import os
 from crawler import jogos
 
-TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
-CHAT_ID = os.getenv("CHAT_ID")
+TELEGRAM_TOKEN = os.getenv("8763383610:AAHlzQ5__OALO3BoyArqAWY1ET0KFPXLNiA")
+CHAT_ID = os.getenv("1302389209")
 
 sinais_hoje = 0
 MAX_SINAIS = 6
